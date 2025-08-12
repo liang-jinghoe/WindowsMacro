@@ -1,0 +1,21 @@
+﻿  WindowsProject1.cpp
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(123,9): error C2374: 'result': redefinition; multiple initialization
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1059,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1060,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1061,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1062,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1064,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1064,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1064,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1064,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2361,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2362,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2422,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2423,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2480,22): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2481,22): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2498,22): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(2499,22): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(3062,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(3063,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(3064,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
